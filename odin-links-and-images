@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html lang = "en">
+
+    <head> 
+        <meta charset = "UTF-8">
+        <title> Odin Links and Images</title>
+        <h1> Homepage </h1> 
+    </head>
+
+    <body>
+
+        <!-- Links -->
+        <p> <!-- Anchor Elements -->
+        <a href="https://www.theodinproject.com/about" target="_blank" rel="noopener noreferrer">About The Odin Project</a> </p> 
+        
+        <!-- Shown Attributes -->
+        <!-- href: Specifies the link page.  -->
+        <!-- target: Specifies where the linked resource will be opened.--> 
+        <!-- rel:  descirbes the relation between current page and linked document-->
+        <!-- noopener: prevents the new tab from accessing the original page, ensures security -->
+        <!-- noreferrer: privacy and security -->
+
+
+        <p> <!-- Absolute Link: Links to other websites -->
+        <a href="https://media.tenor.com/0Q5IZ6e9pC8AAAAM/cat-cute-cat.gif" target="_blank" rel="noopener noreferrer"> Absolute Link Page</a></p>
+        
+        <p> <!-- Relative Link: Links toother pages within our own website-->
+        <a href="./pages/about.html" target="_blank" rel="noopener noreferrer"> Relative Link Page</a></p>    
+
+        <!-- Images -->
+         
+
+
+
+
+    </body>
+</html>

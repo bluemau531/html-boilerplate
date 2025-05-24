@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<html lang = "en">
+    <head>
+        <meta charset = "UTF-8">
+        <title> My First Webpage </title>
+    
+        <!--This is how you comment on HTML Documents-->
+        <!-- CTRL + / : To Easily Comment -->
+    </head>
+
+    <body>
+        <!-- Headings -->
+        <h1> Yoda </h1>
+        <h2> Yoda </h2>
+        <h3> Yoda </h3>
+        <h4> Yoda </h4>
+        <h5> Yoda </h5>
+        <h6> Yoda </h6>
+
+        <!-- Paragraphs with Semantics -->
+        <p> <strong> Strong Yoda </strong> </p>
+        <p> <em> Emphazised Yoda</em> </p>
+        <p> Paragraph Yoda</p>
+
+
+        <!-- Unordered Lists-->
+        <ul>
+            My Pokemon List:
+            <li> Charizard </li>
+            <li> Blastoise </li>
+            <li> Venusaur </li>
+        </ul>
+
+        <!-- Ordered Lists -->
+        <ol>
+            My Shopping List
+            <li> Milk </li>
+            <li> Steak </li>
+            <li> Diet Dr. Pepper </li>
+        </ol>
+
+        
+
+    </body>
+</html>
