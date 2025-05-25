@@ -29,10 +29,6 @@
         <a href="./pages/about.html" target="_blank" rel="noopener noreferrer"> Relative Link Page</a></p>    
 
         <!-- Images -->
-         
-
-
-
-
+         <img src="./images/dog.jpg">
     </body>
 </html>

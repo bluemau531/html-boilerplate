@@ -8,5 +8,13 @@
 
     <body>
         <h1> About Page </h1>
+
+        <!-- Accesing an Image through the parent directory -->
+        <img src="../images/dog.jpg" alt="This is a dog image" height="330" width="500">
+
+        <!-- In addtion above ^^^ alternative attribute describes the image -->
+        <!-- Length and Width meaning size of the image.  -->
+
+
     </body>
 </html>
